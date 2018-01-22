@@ -1,0 +1,414 @@
+2018-01-09 01:47:41,147 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in main - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-01-09 01:47:41,255 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-09 01:47:41,276 [INFO] from application in main - ApplicationTimer demo: Starting application at 2018-01-09T09:47:41.274Z
+2018-01-09 01:47:41,333 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:55:40,180 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in main - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-01-19 09:55:40,288 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:55:40,319 [INFO] from application in main - ApplicationTimer demo: Starting application at 2018-01-19T09:55:40.315Z
+2018-01-19 09:55:40,392 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:55:51,775 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in main - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-01-19 09:55:51,898 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:55:51,909 [INFO] from application in main - ApplicationTimer demo: Starting application at 2018-01-19T09:55:51.908Z
+2018-01-19 09:55:51,972 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:56:01,833 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in main - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-01-19 09:56:01,937 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:56:01,951 [INFO] from application in main - ApplicationTimer demo: Starting application at 2018-01-19T09:56:01.950Z
+2018-01-19 09:56:01,996 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:56:11,901 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in main - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-01-19 09:56:11,989 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:56:12,002 [INFO] from application in main - ApplicationTimer demo: Starting application at 2018-01-19T09:56:12.001Z
+2018-01-19 09:56:12,057 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:56:21,828 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in main - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-01-19 09:56:21,935 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:56:21,951 [INFO] from application in main - ApplicationTimer demo: Starting application at 2018-01-19T09:56:21.949Z
+2018-01-19 09:56:21,997 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:56:32,783 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in main - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-01-19 09:56:32,877 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:56:32,892 [INFO] from application in main - ApplicationTimer demo: Starting application at 2018-01-19T09:56:32.890Z
+2018-01-19 09:56:32,943 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:56:43,767 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in main - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-01-19 09:56:43,875 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:56:43,889 [INFO] from application in main - ApplicationTimer demo: Starting application at 2018-01-19T09:56:43.888Z
+2018-01-19 09:56:43,940 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:56:53,710 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in main - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-01-19 09:56:53,826 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:56:53,870 [INFO] from application in main - ApplicationTimer demo: Starting application at 2018-01-19T09:56:53.868Z
+2018-01-19 09:56:53,946 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:57:04,831 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in main - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-01-19 09:57:04,924 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:57:04,938 [INFO] from application in main - ApplicationTimer demo: Starting application at 2018-01-19T09:57:04.937Z
+2018-01-19 09:57:04,993 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:57:14,923 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in main - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-01-19 09:57:15,041 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:57:15,052 [INFO] from application in main - ApplicationTimer demo: Starting application at 2018-01-19T09:57:15.051Z
+2018-01-19 09:57:15,150 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:57:24,969 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in main - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-01-19 09:57:25,077 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:57:25,090 [INFO] from application in main - ApplicationTimer demo: Starting application at 2018-01-19T09:57:25.088Z
+2018-01-19 09:57:25,138 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:57:34,845 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in main - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-01-19 09:57:34,943 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:57:34,961 [INFO] from application in main - ApplicationTimer demo: Starting application at 2018-01-19T09:57:34.952Z
+2018-01-19 09:57:35,017 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:57:44,630 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in main - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-01-19 09:57:44,729 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:57:44,743 [INFO] from application in main - ApplicationTimer demo: Starting application at 2018-01-19T09:57:44.742Z
+2018-01-19 09:57:44,801 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:57:54,591 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in main - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-01-19 09:57:54,723 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:57:54,739 [INFO] from application in main - ApplicationTimer demo: Starting application at 2018-01-19T09:57:54.738Z
+2018-01-19 09:57:54,789 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:58:04,512 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in main - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-01-19 09:58:04,607 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:58:04,621 [INFO] from application in main - ApplicationTimer demo: Starting application at 2018-01-19T09:58:04.620Z
+2018-01-19 09:58:04,683 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:58:14,439 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in main - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-01-19 09:58:14,537 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:58:14,552 [INFO] from application in main - ApplicationTimer demo: Starting application at 2018-01-19T09:58:14.551Z
+2018-01-19 09:58:14,606 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:58:24,487 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in main - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-01-19 09:58:24,587 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:58:24,601 [INFO] from application in main - ApplicationTimer demo: Starting application at 2018-01-19T09:58:24.600Z
+2018-01-19 09:58:24,673 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:58:34,422 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in main - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-01-19 09:58:34,524 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:58:34,537 [INFO] from application in main - ApplicationTimer demo: Starting application at 2018-01-19T09:58:34.536Z
+2018-01-19 09:58:34,585 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:58:44,258 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in main - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-01-19 09:58:44,345 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:58:44,360 [INFO] from application in main - ApplicationTimer demo: Starting application at 2018-01-19T09:58:44.358Z
+2018-01-19 09:58:44,417 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:58:55,304 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in main - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-01-19 09:58:55,398 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:58:55,408 [INFO] from application in main - ApplicationTimer demo: Starting application at 2018-01-19T09:58:55.407Z
+2018-01-19 09:58:55,464 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:59:05,188 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in main - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-01-19 09:59:05,289 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:59:05,297 [INFO] from application in main - ApplicationTimer demo: Starting application at 2018-01-19T09:59:05.296Z
+2018-01-19 09:59:05,357 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:59:15,229 [WARN] from org.hibernate.validator.messageinterpolation.ParameterMessageInterpolator in main - HV000184: ParameterMessageInterpolator has been chosen, EL interpolation will not be supported
+2018-01-19 09:59:15,326 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
+2018-01-19 09:59:15,339 [INFO] from application in main - ApplicationTimer demo: Starting application at 2018-01-19T09:59:15.338Z
+2018-01-19 09:59:15,385 [WARN] from application in main - Using the following cache for assets configuration:
+	 enabledCaching = true
+	 enabledCacheControl = true
+	 defaultCacheControl = public, max-age=3600
+	 aggressiveCacheControl = public, max-age=31536000, immutable
+	 configuredCacheControl:
+
+
